@@ -27,7 +27,9 @@ outputs/                    # 시각화 결과 및 고위험 고객 목록
 ## 파일 구조
 
 ```
-.
+├── data/
+│ 
+│ 
 ├── notebooks/
 │   ├── 01_data_load_test.ipynb         # EDA 및 변수 분포 확인
 │   ├── 02_sql_aggregation.ipynb        # 리스크 플래그 생성 (SQL)
